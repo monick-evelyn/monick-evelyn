@@ -6,7 +6,7 @@ Meu interesse por tecnologia e desenvolvimento de soluções começou em 2022, q
 
 Tenho experiência prática com linguagens como <strong> Java, Python, PHP</strong>, além de conhecimentos em <strong> MySQL, HTML, CSS e JavaScript</strong>. Ao longo da minha formação, participei do desenvolvimento de sites e aplicativos em equipe, o que reforçou minha habilidade de organização, disciplina e trabalho colaborativo.
 
-Atualmente, estou estudando <strong>Java</strong>, desenvolvimento <strong> Android </strong> e aprimorando meus conhecimentos em <strong>PHP</strong>, sempre buscando novos aprendizados e desafios.
+Atualmente, estou estudando <strong>Java</strong>, desenvolvimento <strong> Android </strong> e aprimorando meus conhecimentos em <strong>Python</strong>, sempre buscando novos aprendizados e desafios.
 
 📫 Fique à vontade para entrar em contato: monick.evelyn.tech@gmail.com
 
