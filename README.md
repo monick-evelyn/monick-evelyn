@@ -1,10 +1,10 @@
 # Olá! Eu sou a Monick Évelyn 👋
 
-- 🔭 Eu tenho afinidade com Back-end
-- 🌱 Estudando JAVA, desenvolvimento Android e PHP
-- 👩‍💻 Técnica em informática pelo IFPB
-- 📖 Cursando Ciência da Computação na UEPB
-- 📫 Contate-me no e-mail: monick.evelyn.tech@gmail.com
+Olá! Me chamo Monick, sou <strong> Técnica em Informática pelo IFPB </strong> e atualmente curso <strong> Ciência da Computação na UEPB </strong> . Tenho afinidade com Back-end e experiência com Java, Python, PHP, MySQL, HTML, CSS e JavaScript.
+
+Iniciei minha jornada na T.I. em 2022 e desde então venho desenvolvendo sites e aplicativos, sempre buscando novos aprendizados e desafios. No momento, estou estudando Java, Android e aprimorando meus conhecimentos em Python.
+
+📫 Contato: monick.evelyn.tech@gmail.com
 
 ## Principais Tecnologias
 <div style="display: inline_block"><br>
