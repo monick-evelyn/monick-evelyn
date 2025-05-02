@@ -1,12 +1,10 @@
 # Olá! Eu sou a Monick Évelyn 👋
 
-Sou <strong> Técnica em Informática pelo IFPB </strong> e atualmente curso <strong> Bacharelado em Ciência da Computação na UEPB. </strong>
+Sou **Técnica em Informática pelo IFPB** e atualmente curso **Bacharelado em Ciência da Computação na UEPB**.
 
-Meu interesse por tecnologia e desenvolvimento de soluções começou em 2022, quando iniciei o ensino médio integrado ao curso técnico. Desde então, venho me aprofundando cada vez mais nesse universo, com foco em <strong> Back-end </strong> e resolução de problemas lógicos — aspectos que sempre despertaram minha curiosidade e motivação na área de T.I.
+Desde 2022, quando iniciei o ensino médio técnico, venho me aprofundando na área de T.I., com foco em **Back-end** e resolução de problemas lógicos. Tenho experiência com **Java, Python, PHP, MySQL, HTML, CSS e JavaScript**, além de vivência em projetos em equipe que reforçaram minhas habilidades de organização e colaboração.
 
-Tenho experiência prática com linguagens como <strong> Java, Python, PHP</strong>, além de conhecimentos em <strong> MySQL, HTML, CSS e JavaScript</strong>. Ao longo da minha formação, participei do desenvolvimento de sites e aplicativos em equipe, o que reforçou minha habilidade de organização, disciplina e trabalho colaborativo.
-
-Atualmente, estou estudando <strong>Java</strong>, desenvolvimento <strong> Android </strong> e aprimorando meus conhecimentos em <strong>Python</strong>, sempre buscando novos aprendizados e desafios.
+Atualmente, estou estudando **Java**, desenvolvimento **Android** e aprimorando meus conhecimentos em **Python**, sempre buscando novos aprendizados e desafios.
 
 📫 Fique à vontade para entrar em contato: monick.evelyn.tech@gmail.com
 
