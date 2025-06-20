@@ -23,7 +23,7 @@ Atualmente, estou estudando **Java**, desenvolvimento **Android** e aprimorando 
 ## Estatísticas
 <div>
 <a href="https://github.com/monick-evelyn">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&langs_count=7&theme=radical"/>
+<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&langs_count=7&theme=radical"/>-->
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=monick-evelyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
