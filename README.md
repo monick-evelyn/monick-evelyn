@@ -4,7 +4,7 @@ Sou **Técnica em Informática pelo IFPB** (Instituto Federal da Paraíba) e atu
 
 Desde 2022, quando iniciei o ensino médio técnico, venho me aprofundando na área de T.I., com foco em **Back-end** e resolução de problemas lógicos. Tenho experiência com **Java, Python, PHP, MySQL, HTML, CSS e JavaScript**, além de vivência em projetos em equipe que reforçaram minhas habilidades de organização e colaboração.
 
-Atualmente, estou estudando **Java**, desenvolvimento **Android** e aprimorando meus conhecimentos em **Python**, sempre buscando novos aprendizados e desafios.
+Atualmente, estou estudando **Java**, desenvolvimento **Android** e aprimorando meus conhecimentos em **programação WEB**, sempre buscando novos aprendizados e desafios.
 
 📫 Fique à vontade para entrar em contato: monick.evelyn.tech@gmail.com
 
