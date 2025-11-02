@@ -64,7 +64,7 @@ I also manage the **junior computing company** at my university, **[KNEX Consult
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&theme=radical)-->
 
 ## Social 
-<div style="text-align: center;">
+<div align="center">
   <img alt="E-mail" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Amonick.evelyn.tech%40gmail.com">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmonickevelyn">
   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmonii.tech">
