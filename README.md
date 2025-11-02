@@ -1,36 +1,44 @@
-# Olá! Eu sou a Monick Évelyn 👋
+# Monick Évelyn
+Student | **Computer Science** at the State University of Paraíba (UEPB)  
+**Computer Technician** | Federal Institute of Paraíba (IFPB)
 
-Sou **Técnica em Informática pelo IFPB** (Instituto Federal da Paraíba) e atualmente curso **Bacharelado em Ciência da Computação na UEPB** (Universidade Estadual da Paraíba).
+## About me
+My name is Monick Évelyn, I’m 18 years old and I’m from Paraíba, Brazil.  
+I am a **Computer Technician from [IFPB](https://www.ifpb.edu.br/santaluzia)** (Federal Institute of Paraíba) and currently pursuing a **Bachelor’s degree in Computer Science at [UEPB](https://uepb.edu.br/prograd/ensino/campus-vii-patos/)** (State University of Paraíba).  
 
-Desde 2022, quando iniciei o ensino médio técnico, venho me aprofundando na área de T.I., com foco em **Back-end** e resolução de problemas lógicos. Tenho experiência com **Java, Python, PHP, MySQL, HTML, CSS e JavaScript**, além de vivência em projetos em equipe que reforçaram minhas habilidades de organização e colaboração.
+Since 2022, when I began my technical high school studies, I have been deepening my knowledge in **Information Technology**, focusing on **Back-end development** and logical problem-solving.  
 
-Atualmente, estou estudando **Java**, desenvolvimento **Android** e aprimorando meus conhecimentos em **programação WEB**, sempre buscando novos aprendizados e desafios.
+I am currently improving my skills in **Web Development**, always seeking new challenges and learning opportunities.  
+I also manage the **junior computing company** at my university, **[KNEX Consultoria Jr.](https://www.knexjr.tech/)**, where I serve as **Vice Executive Director**.
 
-📫 Fique à vontade para entrar em contato: monick.evelyn.tech@gmail.com
+## Programming lenguages and devlopment
 
-## Principais Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Monick-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Monick-AndroidStudio"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Monick-PHP"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Monick-Python"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Monick-MySQL"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Monick-JS"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Monick-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Monick-CSS" height="50" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) 
 
-## Estatísticas
-<div>
-<a href="https://github.com/monick-evelyn">
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&langs_count=7&theme=radical"/>-->
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=monick-evelyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
 
-## Redes Sociais
+![My SQL](https://img.shields.io/badge/mysql-navy?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-lightblue?style=for-the-badge&logo=sqlite&logoColor=navy&labelColor=lavy)  
 
-<div> 
-  <a href="https://instagram.com/monii.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://mailto:monick.evelyn.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/monickevelyn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![Android Studio](https://img.shields.io/badge/androidstudio-green?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+
+  
+## Github Stats
+![Monick GitHub stats](https://github-readme-stats.vercel.app/api?username=monick-evelyn&show_icons=true&theme=radical)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&theme=radical)-->
+
+## Social 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monii.tech)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monick.evelyn.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monickevelyn)
