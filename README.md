@@ -33,12 +33,40 @@ I also manage the **junior computing company** at my university, **[KNEX Consult
 
   
 ## Github Stats
-![Monick GitHub stats](https://github-readme-stats.vercel.app/api?username=monick-evelyn&show_icons=true&theme=radical)
+<div align="center">
+
+  <picture>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=monick-evelyn&theme=radical&show_icons=true&hide_border=true&count_private=true"
+      alt="Monick's GitHub Stats"
+    />
+  </picture>
+
+  <picture>
+    <img
+      height="180em"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=monick-evelyn&theme=radical&hide_border=true"
+      alt="Monick's GitHub Streak"
+    />
+  </picture>
+
+  <picture>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&theme=radical&layout=compact&hide_border=true"
+      alt="Monick's Top Languages"
+    />
+  </picture>
+
+</div>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monick-evelyn&layout=compact&theme=radical)-->
 
 ## Social 
+<div style="text-align: center;">
+  <img alt="E-mail" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Amonick.evelyn.tech%40gmail.com">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmonickevelyn">
+  <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fmonii.tech">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monii.tech)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monick.evelyn.tech@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monickevelyn)
+</div>
