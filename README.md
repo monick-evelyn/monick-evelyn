@@ -3,7 +3,7 @@ Student | **Computer Science** at the State University of Paraíba (UEPB)
 **Computer Technician** | Federal Institute of Paraíba (IFPB)
 
 ## About me
-My name is Monick Évelyn, I’m 18 years old and I’m from Paraíba, Brazil.  
+My name is Monick Évelyn and I’m from Paraíba, Brazil.  
 I am a **Computer Technician from [IFPB](https://www.ifpb.edu.br/santaluzia)** (Federal Institute of Paraíba) and currently pursuing a **Bachelor’s degree in Computer Science at [UEPB](https://uepb.edu.br/prograd/ensino/campus-vii-patos/)** (State University of Paraíba).  
 
 Since 2022, when I began my technical high school studies, I have been deepening my knowledge in **Information Technology**, focusing on **Back-end development** and logical problem-solving.  
