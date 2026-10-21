@@ -9,7 +9,7 @@ I am a **Computer Technician from [IFPB](https://www.ifpb.edu.br/santaluzia)** (
 Since 2022, when I began my technical high school studies, I have been deepening my knowledge in **Information Technology**, focusing on **Back-end development** and logical problem-solving.  
 
 I am currently improving my skills in **Web Development**, always seeking new challenges and learning opportunities.  
-I also manage the **junior computing company** at my university, **[KNEX Consultoria Jr.](https://www.knexjr.tech/)**, where I serve as **Vice Executive Director**.
+I also manage the **junior computing company** at my university, **[KNEX Consultoria Jr.](https://www.knexjr.tech/)**, where I serve as **Executive Director**.
 
 ## Programming lenguages and devlopment
 
